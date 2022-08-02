@@ -1,3 +1,5 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Robert</h1>
+
 ![Header](https://github.com/RobertKaribov/RobertKaribov/blob/main/assets/logo.jpg)
 
 ## Вёрстка сайтов с чистым кроссбраузерным валидным кодом.
@@ -20,6 +22,6 @@
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
 
-### Social
+### Connect with me:
 [![Telegram](https://img.shields.io/badge/-Telegram-ccc?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Robert00096)
 
