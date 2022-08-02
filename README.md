@@ -1,8 +1,11 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Привет, Я Роберт</h1>
 
 ![Header](https://github.com/RobertKaribov/RobertKaribov/blob/main/assets/logo.jpg)
+## О себе
+Меня зовут **Роберт Карибов** я занимаюсь веб-разработкой с 2020 года.
 
-### 🛠 &nbsp; Технический стек
+Работаю с HTML, CSS, JavaScript, препроцессорами, сборщиками, бибилотеками, фреймворками, системой контроля версий Git, а также многому другому из мира веб-технологий.
+### 🛠 &nbsp; Мой стек технологий
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
