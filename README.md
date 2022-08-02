@@ -1,10 +1,8 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Привет, Я Роберт</h1>
+<h1 align="center">Привет, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Я Роберт</h1>
 
 ![Header](https://github.com/RobertKaribov/RobertKaribov/blob/main/assets/logo.jpg)
 
-## Layout of sites with pure cross-browser valid code.
-
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp; Технический стек
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -22,6 +20,6 @@
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
 
-### Connect with me:
+### Контакты:
 [![Telegram](https://img.shields.io/badge/-Telegram-ccc?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Robert00096)
 
