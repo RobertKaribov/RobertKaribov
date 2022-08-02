@@ -1,4 +1,4 @@
-![Header] (https://github.com/RobertKaribov/RobertKaribov/blob/main/assets/logo.png)
+# ![Header] (https://github.com/RobertKaribov/RobertKaribov/blob/main/assets/logo.png)
 
 ## Вёрстка сайтов с чистым кроссбраузерным валидным кодом.
 
@@ -9,4 +9,4 @@
 
 
 ### Social
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Mr_Robert)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Robert00096)
