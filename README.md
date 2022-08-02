@@ -2,7 +2,7 @@
 
 ![Header](https://github.com/RobertKaribov/RobertKaribov/blob/main/assets/logo.jpg)
 
-## Вёрстка сайтов с чистым кроссбраузерным валидным кодом.
+## Layout of sites with pure cross-browser valid code.
 
 ### 🛠 &nbsp;Tech Stack
 
