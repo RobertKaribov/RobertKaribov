@@ -1,5 +1,3 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Привет, Я Роберт</h1>
-
 ![Header](https://github.com/RobertKaribov/RobertKaribov/blob/main/assets/logo.jpg)
 ## О себе
 Меня зовут **Роберт Карибов** я занимаюсь веб-разработкой с 2020 года.
