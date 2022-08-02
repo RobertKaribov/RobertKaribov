@@ -1,4 +1,4 @@
-![Header] (https://github.com/RobertKaribov/RobertKaribov/blob/main/assets/logo.png)
+![Header] (https://github.com/RobertKaribov/blob/main/assets/logo.png)
 
 ## Вёрстка сайтов с чистым кроссбраузерным валидным кодом.
 
