@@ -1,4 +1,4 @@
-!Header (https://github.com/RobertKaribov/RobertKaribov/blob/main/assets/logo.jpg)
+[![Header] (https://github.com/RobertKaribov/RobertKaribov/blob/main/assets/logo.jpg)]
 
 About me
 
