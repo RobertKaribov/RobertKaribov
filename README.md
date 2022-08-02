@@ -1,6 +1,6 @@
 ![Header] (https://github.com/RobertKaribov/RobertKaribov/blob/main/assets/logo.png)
 
-About me
+## Вёрстка сайтов с чистым кроссбраузерным валидным кодом.
 
 Languages and Tools
 
