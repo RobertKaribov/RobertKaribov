@@ -21,5 +21,5 @@
 
 
 ### Social
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=3f3f3f)](https://t.me/Robert00096)
+[![Telegram](https://img.shields.io/badge/-Telegram-3f3f3f?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Robert00096)
 
