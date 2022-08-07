@@ -11,8 +11,7 @@
   * HTML - HTML5, Pug.
   * CSS - CSS3, SASS(SCSS), LESS.
   * Методология БЭМ
-  * Библиотеки, инструменты - jQuery, Bootstrap, JavaScript, Gulp, 
-  * Prepros, Slick Slide, Swiper Slide, и т. д.
+  * Библиотеки, инструменты - JavaScript, Gulp, Prepros, Swiper Slide, и т. д.
   * Адаптивная/Отзывчивая/ Адаптивная-отзывчивая верстка
   * Кроссбраузерность.
   * Продуманный код, с которым будет просто работать другим специалистам.
