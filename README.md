@@ -5,6 +5,8 @@
 
 Я всегда изучаю новые технологии и иду в ногу со временем. Работая со мной вы получаете полностью готовый проект, будь то верстка или сайт под ключ. Всегда довожу проект до конца и поддерживаю в работе.
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
+
 ### 🛠 &nbsp; Мой стек технологий
     HTML - HTML5, Pug.
     CSS - CSS3, SASS(SCSS), LESS.
@@ -16,11 +18,6 @@
     Соблюдение стандартов W3C.
     SEO-верстка.
     Figma, PSD, Zeplin, Sketch, Adobe XD
-    
-    
-    
-    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
-
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
