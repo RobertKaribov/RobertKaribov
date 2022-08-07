@@ -5,7 +5,7 @@
 
 Я всегда изучаю новые технологии и иду в ногу со временем. Работая со мной вы получаете полностью готовый проект, будь то верстка или сайт под ключ. Всегда довожу проект до конца и поддерживаю в работе.
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Image">
 
 ### 🛠 &nbsp; Мой стек технологий
   * HTML - HTML5, Pug.
