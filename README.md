@@ -1,4 +1,8 @@
 ![Header](https://github.com/RobertKaribov/RobertKaribov/blob/main/assets/logo.jpg)
+
+
+### Hello, World! 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
 ## О себе
 Меня зовут **Роберт Карибов** я занимаюсь веб-разработкой с 2020 года.
 
