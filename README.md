@@ -8,16 +8,17 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
 
 ### 🛠 &nbsp; Мой стек технологий
-    HTML - HTML5, Pug.
-    CSS - CSS3, SASS(SCSS), LESS.
-    Методология БЭМ
-    Библиотеки, инструменты - jQuery, Bootstrap, JavaScript, Gulp, Prepros, Slick Slide, Swiper Slide, и т. д.
-    Адаптивная/Отзывчивая/ Адаптивная-отзывчивая верстка
-    Кроссбраузерность.
-    Чистый аккуратный продуманный код, с которым будет просто работать и другим специалистам.
-    Соблюдение стандартов W3C.
-    SEO-верстка.
-    Figma, PSD, Zeplin, Sketch, Adobe XD
+  * HTML - HTML5, Pug.
+    * CSS - CSS3, SASS(SCSS), LESS.
+    * Методология БЭМ
+    * Библиотеки, инструменты - jQuery, Bootstrap, JavaScript, Gulp, 
+    * Prepros, Slick Slide, Swiper Slide, и т. д.
+    * Адаптивная/Отзывчивая/ Адаптивная-отзывчивая верстка
+    * Кроссбраузерность.
+    * Продуманный код, с которым будет просто работать другим специалистам.
+    * Соблюдение стандартов W3C.
+    * SEO-верстка.
+    * Figma, PSD, Zeplin, Sketch, Adobe XD
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
