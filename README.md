@@ -16,6 +16,10 @@
     Соблюдение стандартов W3C.
     SEO-верстка.
     Figma, PSD, Zeplin, Sketch, Adobe XD
+    
+    
+    
+    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
 
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
