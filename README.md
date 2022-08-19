@@ -1,6 +1,6 @@
 ![Header](https://github.com/RobertKaribov/RobertKaribov/blob/main/assets/logo.jpg)
 
-## О себе :
+## О себе:
 
 Привет, меня зовут Роберт. Я занимаюсь веб-разработкой с 2020 года.
 
