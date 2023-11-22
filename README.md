@@ -1,4 +1,4 @@
-![Header](https://github.com/RobertKaribov/RobertKaribov/blob/main/assets/logo.jpg)
+![Header]https://github.com/RobertKaribov/RobertKaribov/commit/242dcf4949a10df1fadf2c59444a97a5c3a1a91e#commitcomment-133282389
 
 ## О себе :
 
